@@ -1,0 +1,55 @@
+.wrapper {
+    height: 330px;
+    width: 270px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    padding-top: 6px;
+    border-radius: 9px;
+    padding-left: 2px;
+    padding-right: 2px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.508);
+}
+
+.row {
+    position: relative;
+    left: 0.9rem;
+    width: inherit;
+}
+
+button {
+    width: 50px;
+    margin: 3px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.508);
+}
+
+.column {
+    width: inherit;
+} 
+
+.equal {
+    width: 50px;
+}
+
+.display {
+    position: relative;
+    width: 233px;
+    border: 0px;
+    background-color: rgb(76, 109, 255);
+    line-height: 2.5;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    left: 1rem;
+}
+/* .all-clear {
+    text-transform: lowercase;
+} */
+
+.del {
+    width: 231px;
+}
